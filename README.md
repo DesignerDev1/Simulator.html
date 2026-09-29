@@ -1,2 +1,0 @@
-# Simulator.html
-Interactive elements 
